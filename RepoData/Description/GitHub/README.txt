@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+♾️📄️📖️ The documentation source repository for UniFile/EveryFile, a singular file extension that can act as a format for any file extension. Hopefully, this won't come to fruition, as it would make every other file format obsolete.
